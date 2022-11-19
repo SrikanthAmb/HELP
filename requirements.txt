@@ -1,0 +1,15 @@
+flask
+sklearn
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+mpld3
+base64
+io
+plotly
+shapely
+geopandas
+gunicorn
