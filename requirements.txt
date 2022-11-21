@@ -6,10 +6,8 @@ pandas
 matplotlib
 seaborn
 scipy
-mpld3
-base64
-io
 plotly
+aspose-words
 shapely
 geopandas
 gunicorn
